@@ -1,0 +1,43 @@
+html {
+    font-size: 12px;
+}
+
+li {
+    margin-bottom: 1%;
+}
+
+p {
+    font-size: 16px;
+    margin-left: 1%;
+    margin-top: 1%;
+}
+
+#bodyinput {
+    width: 50%;
+}
+
+.jumbotron {
+    background-position: center;
+    background-image: url('../images/image.png');
+    background-repeat: no-repeat;
+    height: 400px;
+    width: 100%;
+    background-color: transparent;
+}
+
+.panel-heading.row {
+    width: 100%;
+    margin-left: 0%;
+}
+
+.panel-primary {
+    height: 135px;
+}
+
+#savenote {
+    display: block;
+}
+
+.panel-body {
+    background-color: #667A7F;
+}
